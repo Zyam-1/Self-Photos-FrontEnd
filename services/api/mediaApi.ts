@@ -1,4 +1,4 @@
-import baseApi from "./api/baseApi";
+import baseApi from "./baseApi";
 
 export const getMedia = async (page = 1, pageLimit = 10) => {
   try {
